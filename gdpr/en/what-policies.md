@@ -58,8 +58,3 @@ OJS uses cookies to manage user sessions (for which they are required). Cookies 
 
 1. Add a cookie policy to the About section in Settings > Journal > Masthead > About the Journal. 
 2. Use the [Custom Header plugin](https://pkp.sfu.ca/2018/03/01/enriching-ojs-omp-with-javascript-no-coding-required/) (available in OJS and OMP 3.1+) to add cookie alert popup code. This code can be found at various websites online. See https://cookie-script.com/ for one example. (Note: a future version of OJS will have an explicit cookie consent option. See [this feature request](https://github.com/pkp/pkp-lib/issues/3624) for more information.)
-
-### OMP 3
-
-1. Add a cookie policy to the About section in Settings > Press > Masthead > About the Press. 
-2. Use the [Custom Header plugin](https://pkp.sfu.ca/2018/03/01/enriching-ojs-omp-with-javascript-no-coding-required/) (available in OJS and OMP 3.1+) to add cookie alert popup code. This code can be found at various websites online. See https://cookie-script.com/ for one example. (Note: a future version of OMP will have an explicit cookie consent option. See [this feature request](https://github.com/pkp/pkp-lib/issues/3624) for more information.)
